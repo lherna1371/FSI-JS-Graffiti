@@ -1,0 +1,5 @@
+
+
+.column:has(p) {
+    background: red;
+}
